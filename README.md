@@ -1,5 +1,6 @@
 # Arcade Game
 Arcade Game is a project made in frame of FEND udacity.com
+Udacity provided the art assets and the game enginne, I was responsible for coding player and enemies in JS's object-oriented style. 
 
 ## Installation
 * Download repository
